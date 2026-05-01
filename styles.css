@@ -636,7 +636,10 @@ p {
 .author-placeholder {
     width: 100%;
     height: 100%;
-    background: linear-gradient(135deg, var(--accent-blue), var(--accent-fuchsia));
+    background-image: url('images/elena.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
